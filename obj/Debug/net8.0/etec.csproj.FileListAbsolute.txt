@@ -1,0 +1,14 @@
+C:\Users\user\etec\bin\Debug\net8.0\etec.exe
+C:\Users\user\etec\bin\Debug\net8.0\etec.deps.json
+C:\Users\user\etec\bin\Debug\net8.0\etec.runtimeconfig.json
+C:\Users\user\etec\bin\Debug\net8.0\etec.dll
+C:\Users\user\etec\bin\Debug\net8.0\etec.pdb
+C:\Users\user\etec\obj\Debug\net8.0\etec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\etec\obj\Debug\net8.0\etec.AssemblyInfoInputs.cache
+C:\Users\user\etec\obj\Debug\net8.0\etec.AssemblyInfo.cs
+C:\Users\user\etec\obj\Debug\net8.0\etec.csproj.CoreCompileInputs.cache
+C:\Users\user\etec\obj\Debug\net8.0\etec.dll
+C:\Users\user\etec\obj\Debug\net8.0\refint\etec.dll
+C:\Users\user\etec\obj\Debug\net8.0\etec.pdb
+C:\Users\user\etec\obj\Debug\net8.0\etec.genruntimeconfig.cache
+C:\Users\user\etec\obj\Debug\net8.0\ref\etec.dll
